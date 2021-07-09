@@ -1,2 +1,2 @@
-# homebrew-rstr
-Tap for installing rstr
+# homebrew-tap
+Brew tap for installing packages via `homebrew`
