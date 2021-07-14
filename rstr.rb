@@ -1,5 +1,5 @@
 class Rstr < Formula
-  version "v0.1.0"
+  version "0.1.0"
   desc "A simple content addressable blob store with a web interface."
   homepage "https://github.com/giuppep/rstr"
   url "https://github.com/giuppep/rstr/releases/download/#{version}/rstr-#{version}-x86_64-apple-darwin.tar.gz"
